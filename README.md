@@ -7,4 +7,4 @@
 - comparator
 
 3. Can you spot the comparator constructor call? Where is the class definition for the comparator?
-- its called in the sort method and defined in the comparator file 
+- its called in the sort method and defined in the parameter.
